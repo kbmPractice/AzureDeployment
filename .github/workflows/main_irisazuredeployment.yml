@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'IRISAzureDeployment'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBA7E713B3A44312BD5D11F8E762ACD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A53BA283858D469991FC0732039E1B57 }}
